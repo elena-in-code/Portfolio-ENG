@@ -4,10 +4,10 @@ function aboutInfo(e){
 
     const output = `
                 <ul>
-                    <li>ID:</li>  
-                    <li>Name: </li>  
-                    <li>Company: </li>  
-                    <li>Phone:</li>  
+                    <li>Something here</li>  
+                    <li>Something here </li>  
+                    <li>Something here</li>  
+                    <li>Something here</li>  
                 </ul>
                 `;
                 document.querySelector(".about-content").innerHTML = output;
