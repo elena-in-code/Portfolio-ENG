@@ -1,4 +1,4 @@
-document.querySelector(".about").addEventListener("click", aboutInfo);
+/*document.querySelector(".about").addEventListener("click", aboutInfo);
 
 function aboutInfo(e){
 
@@ -13,4 +13,4 @@ function aboutInfo(e){
                 document.querySelector(".about-content").innerHTML = output;
 
     e.preventDefault();
-}
+}*/
