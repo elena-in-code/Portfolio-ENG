@@ -24,7 +24,7 @@ h2 {
 .card-body {
     background: rgba(250,250,250,0.4)
 }
-img {
+#image-avatar {
     border: 5px solid #343a40;
     border-radius: 10px;
     height: 80vh;/*500*/
